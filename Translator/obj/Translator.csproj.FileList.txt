@@ -1,0 +1,5 @@
+bin\Debug\Translator.exe
+bin\Debug\Translator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Translator.exe
+obj\Debug\Translator.pdb
